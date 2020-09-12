@@ -10,3 +10,8 @@ https://singhkunal2050.github.io/simple-dark-mode-integration/.
 # SOURCE OF INSPIRATION
 
 https://dev.to/ekaterina_vu/dark-mode-with-one-line-of-code-4lkm?signin=true
+
+
+#PEN
+
+https://codepen.io/singhkunal2050/pen/mdPLQrJ
